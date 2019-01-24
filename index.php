@@ -9,7 +9,7 @@
 
 	<center><br><br>
 		<form method="GET" action="Result.php">
-		<h1>Type City and Country</h1>
+		<h1>Enter your city name and country</h1>
 			<input type="text" name="q" placeholder="Cairo,Egypt" required>
 			<input type="submit" name="submit">
 		</form>
